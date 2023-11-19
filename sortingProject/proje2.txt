@@ -9,3 +9,14 @@ Big-O gösterimini yazınız.
     -birleştirme aşamasında bölmeleri birbirleriyle karşılaştırıp sıralıyoruz..[8,11,12,16,21,22]
 
 * Big o gösterimi O(nlogn)
+
+
+Binary Searc tree 
+
+    -[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+        -sağ ve sol referans oluşacak şekilde root belirliyoruz  
+        -root olarak 5 i seçtik 
+        -5 in solunda 4,3,2,1,0 rakamları sağında ise 6,7,8,9 elemanları var
+        -4 ün altını ağaç olacak şekilde soluna 2 sağına 3 gelicek şekilde çiziyoruz
+        -aynı sıralamayı 2 içinde gerçekleştiriyoruz soluna 0 sağına 1
+        -aynı düzeni sağ taraf için ise 6'nın sağına 8 soluna 7 gelecek şekilde parçalıyoruz. 
