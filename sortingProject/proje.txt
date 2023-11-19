@@ -1,0 +1,15 @@
+[22,27,16,2,18,6]--> Insertion sort
+    -Listedeki en küçük eleman bulunur.
+    -En küçük eleman ile listenin başındaki eleman yer değiştirilir.[2,27,16,22,18,6]
+    -2. sıra için aynı işlem uygulanır...[2,6,16,22,18,27]
+    -sıralama devam eder elemanlar değişmiyecek duruma gelene kadar[2,6,16,18,22,27]
+    *Big-O gösterimi =o(n^2)
+    *18 sayısının case i = avarage case'değiştirilir
+
+[7,3,5,8,2,9,4,15,6]
+    -Listedeki en küçük eleman bulunur.[2]
+    -En küçük eleman ile listenin başındaki eleman yer değiştirilir.[2,3,5,8,7,9,4,15,6]
+    -2. sıra için aynı işlem uygulanır...(2. sıra en kücük olduğu için üçüncü sıra kontrol edilir.)
+    -Sıralama bitene kadar aynı işlem uygulanır
+    -Big o notation hesaplanır.
+
