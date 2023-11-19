@@ -1,0 +1,11 @@
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+    -liste parçalara bölünür[16,21,11]-[8,12,22]
+    -her bölme daha kücük parçalara bölünür[16,21][11][8][12,22]
+    -tek eleman kalana kadar bölmeye devam ediyoruz...
+    -birleştirme aşamasında bölmeleri birbirleriyle karşılaştırıp sıralıyoruz..[8,11,12,16,21,22]
+
+* Big o gösterimi O(nlogn)
