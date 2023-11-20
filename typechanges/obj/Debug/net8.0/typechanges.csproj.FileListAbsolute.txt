@@ -1,0 +1,15 @@
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.AssemblyInfoInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.AssemblyInfo.cs
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.csproj.CoreCompileInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.sourcelink.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\bin\Debug\net8.0\typechanges.exe
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\bin\Debug\net8.0\typechanges.deps.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\bin\Debug\net8.0\typechanges.runtimeconfig.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\bin\Debug\net8.0\typechanges.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\bin\Debug\net8.0\typechanges.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\refint\typechanges.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\typechanges.genruntimeconfig.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\typechanges\obj\Debug\net8.0\ref\typechanges.dll
