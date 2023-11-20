@@ -1,0 +1,14 @@
+C:\Users\akaan\Desktop\C#Deneme\bin\Debug\net8.0\C#Deneme.exe
+C:\Users\akaan\Desktop\C#Deneme\bin\Debug\net8.0\C#Deneme.deps.json
+C:\Users\akaan\Desktop\C#Deneme\bin\Debug\net8.0\C#Deneme.runtimeconfig.json
+C:\Users\akaan\Desktop\C#Deneme\bin\Debug\net8.0\C#Deneme.dll
+C:\Users\akaan\Desktop\C#Deneme\bin\Debug\net8.0\C#Deneme.pdb
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.AssemblyInfoInputs.cache
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.AssemblyInfo.cs
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.csproj.CoreCompileInputs.cache
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.dll
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\refint\C#Deneme.dll
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.pdb
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\C#Deneme.genruntimeconfig.cache
+C:\Users\akaan\Desktop\C#Deneme\obj\Debug\net8.0\ref\C#Deneme.dll
