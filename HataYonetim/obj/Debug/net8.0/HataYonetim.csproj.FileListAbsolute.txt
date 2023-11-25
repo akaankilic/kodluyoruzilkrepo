@@ -1,0 +1,14 @@
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\bin\Debug\net8.0\HataYonetim.exe
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\bin\Debug\net8.0\HataYonetim.deps.json
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\bin\Debug\net8.0\HataYonetim.runtimeconfig.json
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\bin\Debug\net8.0\HataYonetim.dll
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\bin\Debug\net8.0\HataYonetim.pdb
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.AssemblyInfoInputs.cache
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.AssemblyInfo.cs
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.csproj.CoreCompileInputs.cache
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.dll
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\refint\HataYonetim.dll
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.pdb
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\HataYonetim.genruntimeconfig.cache
+C:\Users\akaan\Desktop\CsharpPatika\HataYonetim\obj\Debug\net8.0\ref\HataYonetim.dll
