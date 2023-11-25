@@ -1,0 +1,15 @@
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\bin\Debug\net8.0\IfElseYapıları.exe
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\bin\Debug\net8.0\IfElseYapıları.deps.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\bin\Debug\net8.0\IfElseYapıları.runtimeconfig.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\bin\Debug\net8.0\IfElseYapıları.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\bin\Debug\net8.0\IfElseYapıları.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.AssemblyInfoInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.AssemblyInfo.cs
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.csproj.CoreCompileInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.sourcelink.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\refint\IfElseYapıları.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\IfElseYapıları.genruntimeconfig.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\IfElseYapıları\obj\Debug\net8.0\ref\IfElseYapıları.dll
