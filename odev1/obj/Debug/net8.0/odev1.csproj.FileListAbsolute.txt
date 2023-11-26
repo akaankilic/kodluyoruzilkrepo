@@ -1,0 +1,15 @@
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\bin\Debug\net8.0\odev1.exe
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\bin\Debug\net8.0\odev1.deps.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\bin\Debug\net8.0\odev1.runtimeconfig.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\bin\Debug\net8.0\odev1.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\bin\Debug\net8.0\odev1.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.AssemblyInfoInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.AssemblyInfo.cs
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.sourcelink.json
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\refint\odev1.dll
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.pdb
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\odev1.genruntimeconfig.cache
+C:\Users\akaan\Documents\GitHub\kodluyoruzilkrepo\odev1\obj\Debug\net8.0\ref\odev1.dll
